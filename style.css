@@ -4,7 +4,7 @@
 body{
     font-family: "Quicksand", sans-serif;
     text-align: left;
-    padding-top: 15vh;
+    padding-top: 10vh;
     padding-left: 10vw;
     margin: auto;
     height: 100%;
@@ -21,7 +21,7 @@ a:hover{
 }
 
 #assignment-one{
-    background-image: url(../Home/images/map.png);
+    background-image: url(../Home/assets/images/map.png);
     display: block;
     width: 35em;
     height: 31em;
