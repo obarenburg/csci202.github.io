@@ -1,0 +1,29 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap");
+
+body{
+    font-family: "Quicksand", sans-serif;
+    text-align: left;
+    padding-top: 15vh;
+    padding-left: 10vw;
+    margin: auto;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color:rgb(91, 100, 105);
+}
+
+#assignment-one{
+    background-image: url(../Home/images/map.png);
+    display: block;
+    width: 35em;
+    height: 31em;
+    background-repeat:no-repeat;
+}
