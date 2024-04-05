@@ -19,11 +19,3 @@ a{
 a:hover{
     color:rgb(91, 100, 105);
 }
-
-#assignment-one{
-    background-image: url(../assets/images/map.png);
-    display: block;
-    width: 35em;
-    height: 31em;
-    background-repeat:no-repeat;
-}
